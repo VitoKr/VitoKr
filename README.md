@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VitoKr
 - 👀 I’m interested in programming, IT stuff, gaming
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning C#
 - 📫 How to reach me Discord: Virok#1096
 
 <!---
